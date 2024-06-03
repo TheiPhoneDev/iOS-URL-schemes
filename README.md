@@ -7,8 +7,7 @@ A README file that contains a list of URL scheme for iOS
 ### Browsers
   Chrome - ```googlechrome://```
     - Note, when using this scheme do not include the http/https prefix, because the google chrome scheme already provides one.
-
-
+  Arc Search - ```arcmobile2://```
 
 
 ## Mantainer
